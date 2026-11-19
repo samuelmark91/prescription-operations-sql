@@ -1,0 +1,5 @@
+City,RegisteredPatients,PatientsWithPrescriptions,PrescriptionCount,RecordedUnits
+Austin,5,5,5,109
+San Antonio,5,5,5,76
+Dallas,5,0,0,0
+Houston,5,0,0,0

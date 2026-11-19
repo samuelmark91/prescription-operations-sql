@@ -1,0 +1,4 @@
+DoctorID,DoctorFirstName,DoctorLastName,SpecialtyName,PrescriptionCount,DistinctPatients
+D11,Demo,Doctor A,Demo Specialty A,4,4
+D22,Demo,Doctor B,Demo Specialty B,3,3
+D33,Demo,Doctor C,Demo Specialty C,3,3
